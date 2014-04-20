@@ -25,6 +25,6 @@ mRecordButton.setOnFinishedRecordListener(new OnFinishedRecordListener() {
 
 
 效果图
-![img1](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000029.png)
-![img2](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000039.png)
-![img3](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000047.png)
+![image](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000029.png)
+![image](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000039.png)
+![image](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000047.png)
