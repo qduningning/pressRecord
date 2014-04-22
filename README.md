@@ -2,8 +2,8 @@
 按住按钮会显示一个正在录音的动态窗口，自动识别音量
 效果图
 ![image](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000029.png)
-![image](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000029.png)
-![image](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000029.png)
+![image](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000039.png)
+![image](https://github.com/qduningning/pressRecord/raw/master/device-2014-04-21-000047.png)
 大部分逻辑写在自定义组件RecordButton.java 和 AmrPlayBto.java
 xml简单引用即可
 ``` java
